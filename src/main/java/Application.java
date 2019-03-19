@@ -16,7 +16,7 @@ public class Application {
     }
 
     private void printHelpText() {
-        System.out.println("Help");
+        System.out.println("Help Me");
         System.exit(0);
     }
 }
