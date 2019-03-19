@@ -8,6 +8,7 @@ public class Application {
         }
         for (final String argument : arguments) {
             if (argument.equals("-h")) {
+                // They are asking for help
                 application.printHelpText();
             }
 
